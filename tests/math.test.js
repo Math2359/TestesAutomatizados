@@ -9,7 +9,7 @@ test('Soma de 2 - 3 = 5', () => {
 })
 
 test('Divisão de 6 / 3 = 2', () => {
-    expect(math.divide(6, 3)).toBe(3)
+    expect(math.divide(6, 3)).toBe(2)
 })
 
 test('Multiplicação de 4 * 5 = 20', () => {
